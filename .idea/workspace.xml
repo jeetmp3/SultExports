@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c8ac5dc2-9bc9-4b21-b73b-86b146233ce4" name="Default" comment="" />
+    <list default="true" id="c8ac5dc2-9bc9-4b21-b73b-86b146233ce4" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+    </list>
     <ignored path="SultExports.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -406,17 +408,20 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="c8ac5dc2-9bc9-4b21-b73b-86b146233ce4" name="Default" comment="" />
       <created>1406887391548</created>
       <updated>1406887391548</updated>
-      <workItem from="1406887395567" duration="535000" />
+      <workItem from="1406887395567" duration="1140000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="535000" />
+    <option name="totallyTimeSpent" value="1140000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="24" width="1368" height="721" extended-state="6" />
